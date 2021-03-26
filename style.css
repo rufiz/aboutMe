@@ -1,0 +1,156 @@
+.top-container {
+  background-color: #dbf6e9;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+  padding-top: 70px;
+  font-family: "ABeeZee", sans-serif;
+  font-family: "Amita", cursive;
+  font-family: "Delius", cursive;
+  color: #66bfbf;
+  line-height: 2;
+}
+
+.myName {
+  font-size: 55px;
+}
+
+.jobDesc {
+  font-size: 25px;
+  font-weight: normal;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  width: fit-content;
+  margin: 0 auto 0 auto;
+}
+
+h2 {
+  color: #66bfbf;
+}
+
+.middle-container {
+  font-family: "ABeeZee", sans-serif;
+}
+
+.bottom-container {
+}
+
+.second-cloud {
+  position: absolute;
+}
+
+.first-cloud {
+  position: relative;
+  left: 200px;
+  top: 5px;
+}
+
+a {
+  color: #11999e;
+}
+
+h3 {
+  color: #11999e;
+}
+
+.data {
+  text-decoration: underline;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+.computer-png {
+  float: left;
+  margin-right: 25px;
+  margin-left: 10%;
+}
+
+.analysis-img {
+  margin-left: 10%;
+  margin-right: 25px;
+  float: right;
+}
+
+.prof-pic {
+  margin-top: 30px;
+  margin-bottom: 15px;
+  width: 13%;
+}
+
+.intro-text {
+  width: 40%;
+  margin: auto auto 50px auto;
+}
+
+hr {
+  border-top: 5px dotted grey;
+  width: 5%;
+  margin-bottom: 50px;
+}
+
+.get-in-touch {
+  margin-bottom: 50px;
+  font-size: 30px;
+}
+
+.awesome-ml {
+  margin: 50px auto 50px auto;
+  width: 30%;
+}
+
+button {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.btn {
+  background-color: #78c4d4; /* Green */
+  border-radius: 15px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin-bottom: 50px;
+  position: relative;
+}
+
+.bottom-container {
+  position: relative;
+  top: 100px;
+  margin-bottom: 0%;
+  background-color: #66bfbf;
+  height: 180px;
+  font-family: "ABeeZee", sans-serif;
+}
+
+.footer-link {
+  color: #11999e;
+  position: relative;
+  top: 50px;
+}
+
+.foot-ptag {
+  color: #eaf6f6;
+  position: relative;
+  top: 50px;
+}
